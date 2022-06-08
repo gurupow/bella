@@ -2513,7 +2513,8 @@
 		height: 100%;
 		line-height: 90px;
 		padding:0 15px 0;
-		font-size:11px;
+		font-size:13px;
+		font-weight: bolder;
 		letter-spacing: 0.2px;
 		background:transparent;
 		position: relative;
@@ -7853,7 +7854,7 @@ ul.project-features li.p-feature p {
 		display: block;
 		width: 100%;
 		padding:0 0 0 30px;
-		height: 72px;
+		height: 132px;
 		position: relative;
 		-webkit-transition: all 0.3s;
 		-moz-transition: all 0.3s;
